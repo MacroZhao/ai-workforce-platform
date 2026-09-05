@@ -57,6 +57,7 @@ npm install
 VITE_SUPABASE_URL=your-supabase-url
 VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 VITE_OPENAI_API_KEY=your-openai-api-key
+VITE_OPENAI_API_HOST=https://api.orcarouter.ai/v1
 ```
 
 #### OrcaRouter AI（推荐）
