@@ -1,5 +1,7 @@
 # 企业AI数字员工平台
 
+[![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)](https://www.orcarouter.ai/ref/ref_4fa1c66b79aa32c0d4ea)
+
 > **AI已经进入"平权化"时代，企业的"护城河"已经从模型、Agent转移到企业私域数据AI化和可利用复制能力上面。**  
 > **谁能够最早/最快地将专业私域数据转化为专业数字化员工能力，谁才能长久立于AI潮流之上！**  
 >                                                                —— Macro Zhao
@@ -17,6 +19,7 @@
 - 将项目经验沉淀到知识大脑，再反哺下一轮 AI 能力升级
 
 如果你希望做一个不仅能看、还能“落地交付”的 AI 业务平台，这个项目就是为你准备的。
+
 
 ## Architecture
 
